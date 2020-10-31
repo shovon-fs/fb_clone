@@ -1297,7 +1297,6 @@ def pilih_crack():
 	print "\033[1;92mTotal Live/\x1b[1;91mCheckpoint \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint)) 
         print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
         print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 SPAMMING  Group
               \033[1;91m Cyber Gang"""
 	
