@@ -1291,12 +1291,12 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mSHOVON FS\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By Jibon--•◈•---»" #Dev:JIBON VAI
+	print "  \033[1;91m«---•◈•---Developed By shovn--•◈•---»" #Dev:SHOVON
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 football.py) Next login facebook Start Cloning\033[1;97m....'
 	print "\033[1;92mTotal Live/\x1b[1;91mCheckpoint \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint)) 
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•."
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m :"
                 SPAMMING  Group
               \033[1;91m Cyber Gang"""
 	
@@ -1483,9 +1483,9 @@ def pilih_hack():
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 football.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m..."
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
                 FACEBOOK Group
               \033[1;91m CYBER GANG"""
 	
@@ -1672,9 +1672,9 @@ def pilih_black():
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 football.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•."
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m....."
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1858,9 +1858,9 @@ def pilih_mafia():
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 VA.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m..."
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2044,9 +2044,9 @@ def pilih_test():
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 VA.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint)) 
-	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'	   
+	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•..."
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m..."
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•..."	   
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2228,9 +2228,9 @@ def pilih_super():
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 football.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
+	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m.."
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2602,9 +2602,9 @@ def pilih_phone():
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 football.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
+	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m..."
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
 
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2788,9 +2788,9 @@ def pilih_mail():
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 football.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
+	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•..."
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m..."
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•..."
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2974,9 +2974,9 @@ cekpoint.append(user+pass6)
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 football.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
+	print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m...."
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -3181,9 +3181,9 @@ def pilih_army():
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 football.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-        print "\033[1;91m ....SHOVON FS....... \033[1;95m :
-        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
+        print "\033[1;91m ....SHOVON FS....... \033[1;95m......"
+        print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•..."
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
