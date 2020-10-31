@@ -56,7 +56,7 @@ P='\033[1;95m'
 Y='\033[1;93m'
 R='\033[1;0m'
 
-#Dev: S_JIBON-PONIR
+#Dev: F_SHOVON
 ##### LOGO #####
 logo = """
 \033[1;0m
@@ -819,7 +819,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;91mTool Password  \x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:M_ASIM
+            print "Logged in successfully as " + username #Dev:SHOVON
 	    time.sleep(2)
             loop = 'false'
         else:
@@ -1297,8 +1297,8 @@ def pilih_crack():
 	print "\033[1;92mTotal Live/\x1b[1;91mCheckpoint \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint)) 
         print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•."
         print "\033[1;91m ....SHOVON FS....... \033[1;95m :"
-                SPAMMING  Group
-              \033[1;91m Cyber Gang"""
+        print "\033[1;91mSPAMMING  Group.......\033[1;95m :"
+        print "\033[1;91mCyber Gang............"
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1486,8 +1486,8 @@ def pilih_hack():
         print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
         print "\033[1;91m ....SHOVON FS....... \033[1;95m..."
         print "\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.."
-                FACEBOOK Group
-              \033[1;91m CYBER GANG"""
+        print "\033[1;91mSPAMMING  Group.......\033[1;95m :"
+        print "\033[1;91mCyber Gang............"
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
