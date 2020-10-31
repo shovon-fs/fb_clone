@@ -1527,7 +1527,7 @@ def pilih_black():
 		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mSHOVON FS\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
-op = json.loads(jok.text)
+                        op = json.loads(jok.text)
 			print"\033[1;91mName\033[1;95m:\033[1;95m "+op["name"]
 		except KeyError:
 			print"\x1b[1;91mID Not Found!"
